@@ -1,0 +1,6 @@
+{
+  "policy_id": "EP-2026-NY",
+  "threshold": 15.0,
+  "buffer_allowed": 0.10,
+  "description": "Standard carbon output limits for Staten Island industrial zones."
+}
